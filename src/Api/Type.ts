@@ -1,5 +1,5 @@
 export interface ragisterPayload{
-    fullNAme:string,
+    fullName:string,
     email:string,
     password:string
 }

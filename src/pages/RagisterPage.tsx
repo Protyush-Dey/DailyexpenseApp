@@ -1,12 +1,13 @@
-import { View, StyleSheet, Text, TextInput, Button, Pressable } from "react-native";
-import { useFormik } from "formik";
-import { loginPayload } from "../Api/Type";
-import { useMutation, useQuery } from "@tanstack/react-query";
+import { View, StyleSheet, Text, TextInput, Pressable } from "react-native";
+import { useFormik} from "formik";
+import { ragisterPayload } from "../Api/Type";
+import { useMutation} from "@tanstack/react-query";
 import { Login } from "../Api/AuthAPi";
 import * as Yup from "yup";
-export const Loginpage = () => {
+export const RagisterPage = () => {
 
     const inputError = Yup.object().shape({
+        fullName : Yup.string().required("Name is required"),
         email: Yup.string().email("Invalid email").required("Email is required"),
         password: Yup.string().required("Password is required"),
     });
@@ -14,18 +15,19 @@ export const Loginpage = () => {
 
     const formik = useFormik({
         initialValues: {
+            fullName:"",
             email: "",
             password: "",
         },
         validationSchema: inputError,
-        onSubmit: (values: loginPayload) => {
+        onSubmit: (values: ragisterPayload) => {
 
             loginMutation.mutate(values)
         },
     });
 
     const loginMutation = useMutation({
-        mutationFn: (value: loginPayload) => Login(value),
+        mutationFn: (value: ragisterPayload) => Login(value),
         onSuccess: () => {
             console.log("logged in");
         },
@@ -37,10 +39,17 @@ export const Loginpage = () => {
     return (
         <View style={styles.container}>
             <View>
-                <Text> Login </Text>
-                <Text> Manage your expense</Text>
+                <Text> Sign Up </Text>
+                <Text> Make to manage expense</Text>
             </View>
             <View>
+                <TextInput
+                    placeholder="Full name"
+                    value={formik.values.fullName}
+                    onChangeText={formik.handleChange("fullName")}
+                    onBlur={formik.handleBlur("fullName")}
+                    autoCapitalize="none"
+                />
                 <TextInput
                     placeholder="Email"
                     value={formik.values.email}
@@ -58,9 +67,9 @@ export const Loginpage = () => {
                     autoCapitalize="none"
                 />
                 <Pressable onPress={() => formik.handleSubmit()}>
-                    <Text>Login</Text>
+                    <Text>Sign Up</Text>
                 </Pressable>            </View>
-            <Text>You Don't have account{" "} <Text>Sign Up</Text> </Text>
+            <Text>You already have account{" "} <Text>Login</Text> </Text>
         </View>
     )
 }
