@@ -1,3 +1,6 @@
+import { api } from "./Api";
+import { loginPayload, ragisterPayload } from "./Type";
+
 export const ragister = async (values : ragisterPayload) => {
   try {
     const res = await api.post("user/register", values);
