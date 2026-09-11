@@ -1,9 +1,9 @@
 import { View, StyleSheet, Text, TextInput, Pressable } from "react-native";
 import { useFormik} from "formik";
-import { ragisterPayload } from "../Api/Type";
 import { useMutation} from "@tanstack/react-query";
-import { Login } from "../Api/AuthAPi";
 import * as Yup from "yup";
+import { ragisterPayload } from "../../Api/Type";
+import { ragister } from "../../Api/AuthAPi";
 export const RagisterPage = ({ navigation }: any) => {
 
     const inputError = Yup.object().shape({
@@ -27,7 +27,7 @@ export const RagisterPage = ({ navigation }: any) => {
     });
 
     const signupMutation = useMutation({
-        mutationFn: (value: ragisterPayload) => Login(value),
+        mutationFn: (value: ragisterPayload) => ragister(value),
         onSuccess: () => {
             console.log("logged in");
         },

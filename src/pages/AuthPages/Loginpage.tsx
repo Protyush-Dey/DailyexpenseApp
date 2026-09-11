@@ -7,10 +7,10 @@ import {
   Pressable,
 } from 'react-native';
 import { useFormik } from 'formik';
-import { loginPayload } from '../Api/Type';
 import { useMutation } from '@tanstack/react-query';
-import { Login } from '../Api/AuthAPi';
 import * as Yup from 'yup';
+import { loginPayload } from '../../Api/Type';
+import { Login } from '../../Api/AuthAPi';
 export const Loginpage = ({ navigation }: any) => {
   const inputError = Yup.object().shape({
     email: Yup.string().email('Invalid email').required('Email is required'),
