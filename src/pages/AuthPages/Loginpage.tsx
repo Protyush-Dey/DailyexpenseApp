@@ -11,7 +11,7 @@ import { loginPayload } from '../Api/Type';
 import { useMutation } from '@tanstack/react-query';
 import { Login } from '../Api/AuthAPi';
 import * as Yup from 'yup';
-export const Loginpage = () => {
+export const Loginpage = ({ navigation }: any) => {
   const inputError = Yup.object().shape({
     email: Yup.string().email('Invalid email').required('Email is required'),
     password: Yup.string().required('Password is required'),
@@ -71,7 +71,7 @@ export const Loginpage = () => {
           </Pressable>{' '}
         </View>
         <Text>
-          You Don't have account <Text>Sign Up</Text>{' '}
+          You Don't have account <Text onPress={()=>navigation.navigate("Signup")}>Sign Up</Text>{' '}
         </Text>
       </View>
     </View>

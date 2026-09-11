@@ -11,7 +11,7 @@ import {
   SafeAreaProvider,
   useSafeAreaInsets,
 } from 'react-native-safe-area-context';
-import { Loginpage } from './src/pages/Loginpage';
+import { AuthPageRoute } from './src/pages/AuthPages/AuthPageRoute';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 
 const queryClient = new QueryClient();
@@ -22,7 +22,7 @@ function App() {
       <QueryClientProvider client={queryClient}>
     <SafeAreaProvider>
       <StatusBar barStyle={isDarkMode ? 'light-content' : 'dark-content'} />
-      <Loginpage />
+      <AuthPageRoute />
     </SafeAreaProvider>
   </QueryClientProvider>
   );

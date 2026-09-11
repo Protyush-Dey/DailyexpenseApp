@@ -4,7 +4,7 @@ import { ragisterPayload } from "../Api/Type";
 import { useMutation} from "@tanstack/react-query";
 import { Login } from "../Api/AuthAPi";
 import * as Yup from "yup";
-export const RagisterPage = () => {
+export const RagisterPage = ({ navigation }: any) => {
 
     const inputError = Yup.object().shape({
         fullName : Yup.string().required("Name is required"),
@@ -22,11 +22,11 @@ export const RagisterPage = () => {
         validationSchema: inputError,
         onSubmit: (values: ragisterPayload) => {
 
-            loginMutation.mutate(values)
+            signupMutation.mutate(values)
         },
     });
 
-    const loginMutation = useMutation({
+    const signupMutation = useMutation({
         mutationFn: (value: ragisterPayload) => Login(value),
         onSuccess: () => {
             console.log("logged in");
@@ -69,7 +69,7 @@ export const RagisterPage = () => {
                 <Pressable onPress={() => formik.handleSubmit()}>
                     <Text>Sign Up</Text>
                 </Pressable>            </View>
-            <Text>You already have account{" "} <Text>Login</Text> </Text>
+            <Text>You already have account{" "} <Text onPress={()=>navigation.navigate("Login")}>Login</Text> </Text>
         </View>
     )
 }
