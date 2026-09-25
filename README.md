@@ -85,7 +85,314 @@ You've successfully run and modified your React Native App. :partying_face:
 # Troubleshooting
 
 If you're having issues getting the above steps to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
+CHAPTER SIX
+AS SOON as Oliver Costello had left with Miss Peake, Pippa burst into
+tears. “He'll take me away from here,” she cried, sobbing bitterly as she clung
+to Clarissa.
+“No, he won't,” Clarissa assured her, but Pippa's only response was to
+shout, “I hate him. I always hated him.”
+Fearing that the girl was on the verge of hysteria, Clarissa addressed her
+sharply, “Pippa!”
+Pippa backed away from her. “I don't want to go back to my mother, I'd
+rather die,” she screamed. “I'd much rather die. I'll kill him.”
+“Pippa!” Clarissa admonished her.
+Pippa now seemed completely hysterical. “I'll kill myself,” she cried. “I'll
+cut my wrists and bleed to death.”
+Clarissa seized her by the shoulders. “Pippa, control yourself,” she
+ordered the child. “It's all right, I tell you. I'm here.”
+“But I don't want to go back to Mother, and I hate Oliver,” Pippa
+exclaimed desperately. “He's wicked, wicked, wicked.”
+“Yes, dear, I know. I know,” Clarissa murmured soothingly.
+“But you don't know.” Pippa now sounded even more desperate. “I didn't
+tell you everything before – when I came to live here. I just couldn't bear to
+mention it. But it wasn't only Miranda being so nasty and drunk or
+something, all the time. One night, when she was out somewhere or other,
+and Oliver was at home with me – I think he'd been drinking a lot – I don't
+know-but – ” She stopped, and for a moment seemed unable to continue.
+Then, forcing herself to go on, she looked down at the floor and muttered
+indistinctly, “He tried to do things to me.”
+Clarissa looked aghast. “Pippa, what do you mean?” she asked. “What are
+you trying to say?”
+Pippa looked desperately about her, as though seeking someone else who
+would say the words for her. “He – he tried to kiss me, and when I pushed
+him away, he grabbed me, and started to tear my dress off. Then he – ” She
+stopped suddenly, and burst into a fit of sobbing.
+“Oh, my poor darling,” Clarissa murmured, as she hugged the child to
+her. “Try not to think about it. It's all over, and nothing like that will ever
+happen to you again. I'll make sure that Oliver is punished for that. The disgusting beast. He won't get away with it.”
+Pippa's mood suddenly changed. Her tone now had a hopeful note, as a
+new thought apparently came to her. “Perhaps he'll be struck by lightning,”
+she wondered aloud.
+“Very likely,” Clarissa agreed, “very likely.” Her face wore a look of
+grim determination. “Now pull yourself together, Pippa,” she urged the child.
+“Everything's quite all right.” She took a handkerchief from her pocket and
+handed it to Pippa. “Here, blow your nose.”
+Pippa did as she was told, and then used the handkerchief to wipe her
+tears off Clarissa's dress.
+Clarissa managed to summon up a laugh at this. “Now, you go upstairs
+and have your bath,” she ordered, turning Pippa around to face the hall door.
+“Mind you have a really good wash – your neck is absolutely filthy.”
+Pippa seemed to be returning to normal. “It always is,” she replied as she
+went to the door. But, as she was about to leave, she turned suddenly and ran
+to Clarissa. “You won't let him take me away, will you?” she pleaded.
+“Over my dead body,” Clarissa replied with determination. Then she
+corrected herself. “No – over his dead body. There! Does that satisfy you?”
+Pippa nodded, and Clarissa kissed her forehead. “Now, run along,” she
+ordered.
+Pippa gave her stepmother a final hug and left. Clarissa stood for a
+moment in thought, and then, noticing that the room had become rather dark,
+switched on the concealed lighting by a switch near the hall door. She went to
+the French windows and closed them, then sat on the sofa, staring ahead of
+her, apparently lost in thought.
+Only a minute or two had passed when, hearing the front door of the
+house slam, she looked expectantly towards the hall door through which, a
+moment later, her husband, Henry Hailsham-Brown, entered. Henry was a
+quite good-looking man of about forty with a rather expressionless face,
+wearing horn-rimmed spectacles and carrying a brief-case.
+“Hello, darling,” Henry greeted his wife, as he switched on the wall-
+bracket lights by a switch below the hall door, and put his brief-case on the
+armchair.
+“Hello, Henry,” Clarissa replied. “Hasn't it been an absolutely awful
+day?”
+“Has it?” asked Henry, as he came across to lean over the back of the sofa
+and kiss Clarissa. “I hardly know where to begin,” she told him. “Have a drink first.”
+“Not just now,” Henry replied, going to the French windows and closing
+the curtains. “Who's in the house?”
+Slightly surprised at the question, Clarissa answered, “Nobody. It's the
+Elgins's night off. Black Thursday, you know. We'll dine on cold ham,
+chocolate mousse, and the coffee will be really good because I shall make it.”
+A questioning “Um?” was Henry's only response to this.
+Struck by his manner, Clarissa asked, “Henry, is anything the matter?”
+“Well, yes, in a way,” he told her.
+“Something wrong?” she queried. “Is it Miranda?”
+“No, no, there's nothing wrong, really,” Henry assured her. “I should say
+quite the contrary. Yes, quite the contrary.”
+“Darling,” said Clarissa, speaking with affection and only a very faint
+note of ridicule, “do I perceive behind that impenetrable Foreign Office
+façade a certain human excitement?”
+Henry wore an air of pleasurable anticipation. “Well,” he admitted, “it is
+rather exciting in a way.” He paused, then added, “As it happens, there's a
+slight fog in London.”
+“Is that very exciting?” Clarissa asked.
+“No, no, not the fog, of course.”
+“Well?” Clarissa urged him.
+Henry looked quickly around, as though to assure himself that he could
+not be overheard, and then went across to the sofa to sit beside Clarissa.
+“You'll have to keep this to yourself,” he impressed upon her in a very grave
+tone of voice.
+“Yes?” Clarissa prompted him hopefully.
+“It's really very secret,” Henry reiterated. “Nobody's supposed to know.
+But, actually, you'll have to know.”
+“Well, come on, tell me,” she urged him.
+Henry looked around again, and then turned to Clarissa. “It's all very
+hush-hush,” he insisted. He paused for effect, and then announced, “The
+Soviet Premier, Kalendorff, is flying to London for an important conference
+with the Prime Minister tomorrow.”
+Clarissa was unimpressed. “Yes, I know,” she replied.
+Henry looked startled. “What do you mean, you know?” he demanded.
+“I read it in the paper last Sunday,” Clarissa informed him casually.
+“I can't think why you want to read these low-class papers,” Henry expostulated. He sounded really put out. “Anyway,” he continued, “the
+papers couldn't possibly know that Kalendorff was coming over. It's top
+secret.”
+“My poor sweet,” Clarissa murmured. Then, in a voice in which
+compassion was mixed with incredulity, she continued, “But top secret?
+Really! The things you high-ups believe.”
+Henry rose and began to stride around the room, looking distinctly
+worried. “Oh dear, there must have been some leak,” he muttered.
+“I should have thought,” Clarissa observed tartly, “that by now you'd
+know there always is a leak. In fact, I should have thought that you'd all be
+prepared for it.”
+Henry looked somewhat affronted. “The news was only released
+officially tonight,” he told her. “Kalendorff's plane is due at Heathrow at
+eight-forty, but actually...” He leaned over the sofa and looked doubtfully at
+his wife.
+“Now, Clarissa,” he asked her very solemnly, “can I really trust you to be
+discreet?”
+“I'm much more discreet than any Sunday newspaper,” Clarissa protested,
+swinging her feet off the sofa and sitting up.
+Henry sat on an arm of the sofa and leaned towards Clarissa
+conspiratorially. “The conference will be at Whitehall tomorrow,” he
+informed her, “but it would be a great advantage if a conversation could take
+place first between Sir John himself and Kalendorff. Now, naturally the
+reporters are all waiting at Heathrow, and the moment the plane arrives,
+Kalendorff's movements are more or less public property.”
+He looked around again, as though expecting to find the gentlemen of the
+press peering over his shoulder, and continued, in a tone of increasing
+excitement, “Fortunately, this incipient fog has played into our hands.”
+“Go on,” Clarissa encouraged him. “I'm thrilled, so far.”
+“At the last moment,” Henry informed her, “the plane will find it
+inadvisable to land at Heathrow. It will be diverted, as is usual on these
+occasions – ”
+“To Bindley Heath,” Clarissa interrupted him. “That's just fifteen miles
+from here. I see.”
+“You're always very quick, Clarissa dear,” Henry commented rather
+disapprovingly. “But yes, I shall go off there now to the aerodrome in the car,
+meet Kalendorff, and bring him here. The Prime Minister is motoring down here direct from Downing Street. Half an hour will be ample for what they
+have to discuss, and then Kalendorff will travel up to London with Sir John.”
+Henry paused. He got up and took a few paces away, before turning to
+say to her disarmingly, “You know, Clarissa, this may be of very great value
+to me in my career. I mean, they're reposing a lot of trust in me, having this
+meeting here.”
+“So they should,” Clarissa replied firmly, going to her husband and
+flinging her arms around him. “Henry, darling,” she exclaimed, “I think it's
+all wonderful.”
+“By the way,” Henry informed her solemnly, “Kalendorff will be referred
+to only as Mr. Jones.”
+“Mr. Jones?” Clarissa attempted, not altogether successfully, to keep a
+note of amused incredulity out of her voice.
+“That's right,” Henry explained, “one can't be too careful about using real
+names.”
+“Yes – but – Mr. Jones?” Clarissa queried. “Couldn't they have thought of
+something better than that?” She shook her head doubtfully and continued,
+“Incidentally, what about me? Do I retire to the harem, as it were, or do I
+bring in the drinks, utter greetings to them both and then discreetly fade
+away?”
+Henry regarded his wife somewhat uneasily as he admonished her, “You
+must take this seriously, dear.”
+“But Henry, darling,” Clarissa insisted, “can't I take it seriously and still
+enjoy it a little?”
+Henry gave her question a moment's consideration before replying
+gravely, “I think it would be better, perhaps, Clarissa, if you didn't appear.”
+Clarissa seemed not to mind this. “All right,” she agreed, “but what about
+food? Will they want something?”
+“Oh, no,” said Henry. “There need be no question of a meal.”
+“A few sandwiches, I think,” Clarissa suggested. She sat on an arm of the
+sofa and continued, “Ham sandwiches would be best. In a napkin to keep
+them moist. And hot coffee, in a thermos jug. Yes, that'll do very well. The
+chocolate mousse I shall take up to my bedroom to console me for being
+excluded from the conference.”
+“Now, Clarissa,” Henry began disapprovingly, only to be interrupted by
+his wife as she rose and flung her arms around his neck. “Darling, I am being
+serious, really,” she assured him. “Nothing will go wrong. I shan't let it.” She kissed him affectionately.
+Henry gently disentangled himself from her embrace. “What about old
+Roly?” he asked.
+“He and Jeremy are dining at the clubhouse with Hugo,” Clarissa told
+him. “They're going to play bridge afterwards, so Roly and Jeremy won't be
+back here until about midnight.”
+“And the Elgins are out?” Hugo asked her.
+“Darling, you know they always go to the cinema on Thursdays,” Clarissa
+reminded him. “They won't be back until well after eleven.”
+Henry looked pleased. “Good,” he exclaimed. “That's all quite
+satisfactory. Sir John and Mr. – er – ”
+“Jones,” Clarissa prompted him.
+“Quite right, darling. Mr. Jones and the Prime Minister will have left long
+before then.” Henry consulted his watch. “Well, I'd better have a quick
+shower before I start off for Bindley Heath,” he announced.
+“And I'd better go and make the ham sandwiches,” Clarissa said, dashing
+out of the room. Picking up his briefcase, Henry called after her, “You must
+remember about the lights, Clarissa.” He went to the door and switched off
+the concealed lighting. “We're making our own electricity here, and it costs
+money.” He switched off the wall-brackets as well. “It's not like London, you
+know.”
+After a final glance around the room, which was now in darkness except
+for a faint glow of moonlight coming in through the windows, Henry nodded
+and left, closing the door behind him. Spider's Web CHAPTER SEVEN
+WHEN THE three men arrived at the golf club, Hugo was busily
+complaining about Clarissa's behaviour in making them test the port. “Really,
+she ought to stop playing these games, you know,” Hugo said as they made
+their way to the bar. “Do you remember, Roly, the time I received that
+telegram from Whitehall telling me that I was going to be offered a
+knighthood in the next Honours List? It was only when I mentioned it in
+confidence to Henry one evening when I was dining with them both, and
+Henry was perplexed but Clarissa started giggling – it was only then that I
+discovered she'd sent the bloody thing. She can be so childish sometimes.”
+Sir Rowland chuckled. “Yes, she can indeed. And she loves play-acting.
+You know, she was actually a damned good actress in her school's drama
+club. At one time I thought she'd take it up seriously and go on the stage
+professionally. She's so convincing, even when she's telling the most dreadful
+lies. And that's what actors are, surely. Convincing liars.”
+He was lost in reminiscence for a moment, and then continued, “Clarissa's
+best friend at school was a girl called Jeanette Collins, whose father had been
+a famous footballer. And Jeanette herself was a mad football fan. Well, one
+day Clarissa rang Jeanette in an assumed voice, claiming to be the public
+relations officer for some football team or other, and told her that she'd been
+chosen to be the team's new mascot, but that it all depended on her dressing
+in a funny costume as a rabbit and standing outside the Chelsea Stadium that
+afternoon as the customers were queuing up to get in. Somehow Jeanette
+managed to hire a costume in time, and got to the stadium dressed as a bunny
+rabbit, where she was laughed at by hundreds of people and photographed by
+Clarissa, who was waiting there for her. Jeanette was furious. I don't think the
+friendship survived.”
+“Oh, well,” Hugo growled resignedly, as he picked up a menu and began
+to devote his attention to the serious business of choosing what they would
+eat later.
+Meanwhile, back in the Hailsham-Browns' drawing-room, only some
+minutes after Henry had gone off to have a quick shower and change his
+clothes before setting out for the aerodrome, Oliver Costello entered the
+empty room stealthily through the French windows, leaving the curtains open
+so that moonlight streamed in. He shone a torch carefully around the room, then went to the desk and switched on the lamp that was on it. After lifting
+the flap of the secret drawer, he suddenly switched off the lamp and stood
+motionless for a moment as though he had heard something. Apparently
+reassured, he switched the desk lamp on again, and opened the secret drawer.
+Behind Costello, the panel in the bookshelf slowly and quietly opened.
+He shut the secret drawer in the desk, switched the lamp off again, and then
+turned sharply as he was struck a fierce blow on the head by someone behind
+the panel. Costello collapsed immediately, falling behind the sofa, and the
+panel closed again, this time more quickly.
+The room remained in darkness for a moment, until Henry Hailsham-
+Brown entered from the hall, switched on the wall-brackets, and shouted,
+“Clarissa!” Putting his spectacles on, he filled his cigarette-case from the box
+on a table near the sofa as Clarissa came in, calling, “Here I am, darling. Do
+you want a sandwich before you go?”
+“No, I think I'd better start,” Henry replied, patting his jacket nervously.
+“But you'll be hours too early,” Clarissa told him. “It can't take you more
+than twenty minutes to drive there.”
+Henry shook his head. “One never knows,” he declared. “I might have a
+puncture, or something might go wrong with the car.”
+“Don't fuss, darling,” Clarissa admonished him, straightening his tie as
+she spoke. “It's all going to go very smoothly.”
+“Now, what about Pippa?” Henry asked anxiously. “You're sure she won't
+come down or barge in while Sir John and Kalen – I mean, Mr. Jones – are
+talking privately?”
+“No, there's no danger of that,” Clarissa assured him. “I'll go up to her
+room and we'll have a feast together. We'll toast tomorrow's breakfast
+sausages and share the chocolate mousse between us.”
+Henry smiled affectionately at his wife. “You're very good to Pippa, my
+dear,” he told her. “It's one of the things I'm most grateful to you for.” He
+paused, looked embarrassed, and then continued speaking. “I can never
+express myself very well... I... you know... so much misery... and now,
+everything's so different. You...” Taking Clarissa in his arms, he kissed her.
+For some moments they remained locked in a loving embrace. Then
+Clarissa gently broke away, but continued to hold hands with him. “You've
+made me very happy, Henry,” she told him. “And Pippa is going to be fine.
+She's a lovely child.”
+Henry gazed at her fondly. “Now, you go and meet your Mr. Jones,” she ordered him, pushing him towards the hall door. “Mr. Jones,” she repeated. “I
+still think that's a ridiculous name to have chosen.”
+Henry was about to leave the room when Clarissa asked him,“Are you
+going to come in by the front door? Shall I leave it unlatched?”
+He paused in the doorway to consider. Then, “No,” he said. “I think we'll
+come in through the French windows.”
+“You'd better put on your overcoat, Henry. It's quite chilly,” Clarissa
+advised, pushing him into the hall as she spoke. “And perhaps your muffler
+as well.” He took his coat obediently from a rack in the hall, and she followed
+him to the front door with a final word of advice. “Drive carefully, darling,
+won't you?”
+“Yes, yes,” Henry called back. “You know I always do.”
+Clarissa shut the door behind him and went off to the kitchen to finish
+making the sandwiches that she had begun to prepare earlier. As she put the
+sandwiches on a plate, wrapping a damp napkin around the plate to keep
+them fresh, she could not help thinking of her recent unnerving encounter
+with Oliver Costello. She was frowning as she carried the sandwiches back to
+the drawing-room, where she put them on the small table.
+Suddenly fearful of incurring Miss Peake's wrath for having marked the
+table, she snatched the plate up again, rubbed unsuccessfully at the mark it
+had made, and compromised by covering it with a nearby vase of flowers.
+She transferred the plate of sandwiches to the stool, then carefully shook the
+cushions on the sofa. Singing quietly to herself, she picked up Pippa's book
+and took it across to replace it on the bookshelves. “Can a body meet a body,
+coming through the – ” She suddenly stopped singing and uttered a scream as
+she stumbled and nearly fell over Oliver Costello's body.
+Bending over the body, Clarissa recognised who it was. “Oliver!” she
+gasped. She stared at him in horror for what seemed an age. Then, convinced
+that he was dead, she straightened up quickly and ran towards the door to call
+Henry, but immediately realised that he had gone. She turned back to the
+body, and then ran to the telephone and lifted the receiver. She began to dial,
+but then stopped and replaced the receiver again. She stood thinking for a
+moment, and looked at the panel in the wall. Making up her mind quickly,
+she glanced at the panel again, and then reluctantly bent down and began to
+drag the body across to it.
+While she was engaged in doing this, the panel slowly opened and Pippa
+emerged from the recess, wearing a dressing-gown over her pyjamas. “Clarissa!” she waile
 # Learn More
 
 To learn more about React Native, take a look at the following resources:
@@ -95,160 +402,4 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
-CLARISSA AND Sir Rowland had hardly been gone more than a few
-minutes when Elgin, the butler, entered the room from the hall, carrying a
-tray of drinks, which he placed on a table. When the front-door bell suddenly
-rang, he went out into the hall, leaving the door open behind him. He opened
-the front door to find a theatrically handsome, dark-haired man standing
-outside.
-“Good evening, sir,” Elgin greeted him.
-“Good evening. I've come to see Mrs. Brown,” the man told him rather
-brusquely.
-“Oh, yes, sir, do come in,” said Elgin. Closing the door behind the man,
-he asked, “What name, sir?”
-“Mr. Costello,” he was told.
-“This way, sir,” Elgin invited him, leading the way along the hall. He
-stood aside to allow the newcomer to enter the drawing-room, and then said,
-“Would you wait here, sir. Madam is at home. I'll see if I can find her.” He
-started to go, then stopped and turned back to the man. “Mr. Costello, did you
-say?”
-“That's right,” the stranger replied. “Oliver Costello.”
-“Very good, sir,” murmured Elgin as he left the room, closing the door
-behind him.
-Left alone, Oliver Costello looked around the room, walked across to
-listen first at the library door and next at the hall door, and then approached
-the desk, bent over it, and looked closely at the drawers. Hearing a sound, he
-quickly moved away from the desk, and was standing in the centre of the
-room when Clarissa came in through the French windows.
-Costello turned. When he saw who it was, he looked amazed.
-It was Clarissa who spoke first. Sounding intensely surprised, she gasped,
-“You?”
-“Clarissa! What are you doing here?” exclaimed Costello. He sounded
-equally surprised.
-“That's a rather silly question, isn't it?” Clarissa replied. “It's my house.”
-“This is your house?” His tone was one of disbelief.
-“Don't pretend you don't know,” said Clarissa sharply.
-Costello stared at her without speaking for a moment or two. Then, adopting a complete change of manner, he observed, “What a charming
-house this is. It used to belong to old what's-his-name, the antique dealer,
-didn't it? I remember he brought me out here once to show me some Louis
-Quinze chairs.” Costello took a cigarette case from his pocket. “Cigarette?”
-he offered.
-“No, thank you,” replied Clarissa abruptly. “And,” she added, “I think
-you'd better go. My husband will be home quite soon, and I don't think he'll
-be very pleased to see you.”
-Costello strolled across to the armchair and stood behind it as he
-responded with rather insolent amusement, “But I particularly do want to see
-him. That's why I've come here, really, to discuss suitable arrangements.”
-“Arrangements?” Clarissa asked, her tone one of puzzlement.
-“Arrangements for Pippa,” Costello explained. “Miranda's quite agreeable
-to Pippa's spending part of the summer holidays with Henry, and perhaps a
-week at Christmas. But otherwise-”
-Clarissa interrupted him sharply. “What do you mean?” she asked.
-“Pippa's home is here.”
-Costello wandered casually over to the table with the drinks on it. “But,
-my dear Clarissa,” he exclaimed, “you're surely aware that the court gave
-Miranda the custody of the child?” He picked up a bottle of whisky. “May I?”
-he asked, and without waiting for a reply poured a drink for himself. “The
-case was undefended, remember?”
-Clarissa faced him belligerently. “Henry allowed Miranda to divorce
-him,” she declared, speaking clearly and concisely, “only after it was agreed
-between them privately that Pippa should live with her father. If Miranda had
-not agreed to that, Henry would have divorced her.”
-Costello gave a laugh which bordered on a sneer. “You don't know
-Miranda very well, do you?” he asked. “She so often changes her mind.”
-Clarissa turned away from him. “I don't believe for one moment,” she
-said contemptuously, “that Miranda wants that child or even cares twopence
-about her.”
-“But you're not a mother, my dear Clarissa,” was Costello's impertinent
-response. “You don't mind my calling you Clarissa, do you?” he went on,
-with another unpleasant smile. “After all, now that I'm married to Miranda,
-we're practically relations-in-law.”
-He swallowed his drink in one gulp and then put his glass down. “Yes, I
-can assure you,” he continued, “Miranda is now feeling violently maternal. She feels she must have Pippa to live with us for most of the time.”
-“I don't believe it,” Clarissa snapped.
-“Please yourself,” Costello replied as he made himself comfortable in the
-armchair. “But there's no point in your trying to contest it. After all, there was
-no arrangement in writing, you know.”
-“You're not going to have Pippa,” Clarissa told him firmly. “The child
-was a nervous wreck when she came to us. She's much better now, and she's
-happy at school, and that's the way she's going to remain.”
-“How will you manage that, my dear?” Costello sneered. “The law is on
-our side.”
-“What's behind all this?” Clarissa asked him, sounding bewildered. “You
-don't care about Pippa. What do you really want?” She paused, and then
-struck her forehead. “Oh! What a fool I am. Of course, it's blackmail.”
-Costello was about to reply when Elgin entered abruptly from the hall. “I
-was looking for you, madam,” the butler told Clarissa. Seeing Costello with
-her, he asked, “Will it be quite all right for Mrs. Elgin and myself to leave
-now for the evening, madam?”
-“Yes, quite all right, Elgin,” Clarissa replied.
-“The taxi has come for us,” the butler explained. “Supper is laid all ready
-in the dining-room.” He was about to go, but then turned back to Clarissa.
-“Do you want me to shut up in here, madam?” he asked, keeping an eye on
-Costello as he spoke.
-“No, I'll see to it,” Clarissa assured him. “You and Mrs. Elgin can go off
-for the evening now.”
-“Thank you, madam,” said Elgin. He went to the hall door and turned to
-say, “Good night, madam.”
-“Good night, Elgin,” Clarissa responded.
-Costello waited until the butler had closed the door behind him before he
-spoke again. Then, “'Blackmail' is a very ugly word, Clarissa,” he pointed out
-to her somewhat unoriginally. “You should take a little more care before you
-accuse people wrongfully. Now, have I mentioned money at all?”
-“Not yet,” replied Clarissa. “But that's what you mean, isn't it?”
-Costello shrugged his shoulders and held his hands out in an expressive
-gesture. “It's true that we're not very well off,” he admitted. “Miranda has
-always been very extravagant, as you no doubt know. I think she feels that
-Henry might be able to spare her a much larger allowance. After all, he's a
-rich man.” Clarissa went up to Costello and faced him squarely. “Now listen,” she
-ordered him. “I don't know about Henry, but I do know about myself. You try
-to get Pippa away from here, and I'll fight you tooth and nail.” She paused,
-then added, “And I don't care what weapons I use.”
-Apparently unmoved by her outburst, Costello chuckled, but Clarissa
-continued, “It shouldn't be difficult to get medical evidence proving
-Miranda's a drug addict. I'd even go to Scotland Yard and talk to the Narcotic
-Squad, and I'd suggest that they keep an eye on you as well.”
-Costello gave a start at this. “The upright Henry will hardly care for your
-methods,” he warned Clarissa.
-“Then Henry will have to lump them,” she retorted fiercely. “It's the child
-that matters. I'm not going to have Pippa bullied or frightened.”
-At this point, Pippa came into the room from the hall. Seeing Costello,
-she stopped short and looked terrified.
-“Why, hello, Pippa,” Costello greeted her. “How you've grown.”
-Pippa backed away from him as he moved towards her. “I've just come to
-make some arrangements about you,” he told her. “Your mother is looking
-forward to having you with her again. She and I are married now, and – ”
-“I won't come,” Pippa cried hysterically, running to Clarissa for
-protection. “I won't come. Clarissa, they can't make me, can they? They
-wouldn't – ”
-“Don't worry, Pippa darling,” Clarissa said soothingly, putting her arm
-around the child. “Your home is here with your father and with me, and
-you're not leaving it.”
-“But I assure you – ” Costello began, only to be interrupted angrily by
-Clarissa. “Get out of here at once,” she ordered him.
-Mockingly pretending to be afraid of her, Costello put his hands above
-his head and backed away.
-“At once!” Clarissa repeated. She advanced upon him. “I won't have you
-in my house, do you hear?”
-Miss Peake suddenly entered through the French windows, carrying a
-large garden fork. “Oh, Mrs. Hailsham-Brown,” she began, “I – ”
-“Miss Peake,” Clarissa interrupted her. “Will you show Mr. Costello the
-way through the garden to the gate onto the golf links?”
-Costello looked at Miss Peake, who lifted her garden fork as she returned
-his gaze.
-“Miss... Peake?” he queried. “Pleased to meet you,” she replied robustly. “I'm the gardener here.”
-“Indeed, yes,” said Costello. “I came here once before, you may
-remember, to look at some antique furniture.”
-“Oh, yes,” Miss Peake replied. “In Mr. Sellon's time. But you can't see
-him today, you know. He's dead.”
-“No, I didn't come to see him,” Costello declared. “I came to see... Mrs.
-Brown.” He gave the name a certain emphasis.
-“Oh, yes? Is that so? Well, now you've seen her,” Miss Peake told him.
-She seemed to realize that the visitor had outstayed his welcome.
-Costello turned to Clarissa. “Goodbye, Clarissa,” he said. “You will hear
-from me, you know.” He sounded almost menacing.
-“This way,” Miss Peake showed him, gesturing to the French windows.
-She followed him out, asking as they went, “Do you want the bus, or did you
-bring your own car?”
-“I left my car round by the stables,” Costello informed her as they made
-their way across the garden. Spider
+
