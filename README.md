@@ -419,4 +419,196 @@ together and have reasonable luck, I think there's a chance we may be able to
 pull it off.”
 Jeremy looked as though he was about to say something, but Sir Rowland
 held up a hand and went on, “Once the police are satisfied that Costello isn't
-in thi
+in this house, they'll go off and look elsewhere. After all, there are plenty of
+reasons why he might have left his car and gone off on foot.” He gestured
+towards them both and added, “We're all respectable people – Hugo's a J. P.,
+as he's reminded us, and Henry Hailsham-Brown's high up in the Foreign
+Office – ” “Yes, yes, and you've had a blameless and even distinguished career, we
+know all that,” Hugo intervened. “All right, then, if you say so, we brazen it
+out.”
+Jeremy rose to his feet and nodded towards the recess. “Can't we do
+something about that straightaway?” he asked.
+“There's no time now,” Sir Roland decreed tersely. “They'll be back any
+minute. He's safer where he is.”
+Jeremy nodded his head in reluctant agreement. “I must say Clarissa's a
+marvel,” he observed. “She doesn't turn a hair. She's got that police inspector
+eating out of her hand.”
+The front door bell suddenly rang. “That'll be Miss Peake, I expect,” Sir,
+Rowland announced. “Go and let her in, Warrender, would you?”
+Jeremy went to do as he was bidden. As soon as he had left the room,
+Hugo beckoned to Sir Rowland, who went over to him.
+“What's up, Roly?” Hugo asked in an urgent whisper. “What did Clarissa
+tell you when she got you to herself?”
+Sir Rowland began to speak, but, hearing the voices of Jeremy and Miss
+Peake exchanging greetings at the front door, he made a gesture indicating
+“Not now.”
+“I think you'd better come in here,” Jeremy told Miss Peake as he
+slammed the front door shut. A moment later, the gardener preceded him into
+the drawing-room, looking as though she had dressed very hastily. She wore
+a towel around her head.
+“What is all this?” she wanted to know. “Mrs. Hailsham-Brown was most
+mysterious on the phone. Has anything happened?”
+Sir Rowland addressed her with the utmost courtesy. “I'm so sorry you've
+been routed out like this, Miss Peake,” he apologised. “Do sit down,” he
+invited her, indicating a chair by the bridge table.
+Hugo pulled the chair out for Miss Peake, who thanked him. He then sat
+himself in a more comfortable easy chair, while Sir Rowland informed the
+gardener, “As a matter of fact, we've got the police here, and – ”
+“The police?” Miss Peake interrupted, looking startled. “Has there been a
+burglary?”
+“No, not a burglary, but – ”
+He stopped speaking as Clarissa, the Inspector and the Constable came
+back into the room. Jeremy sat on the sofa, while Sir Rowland took up a
+position behind it. “Inspector,” Clarissa announced, “this is Miss Peake.”
+The Inspector went across to the gardener. His “Good evening, Miss
+Peake” was accompanied by a stiff little bow.
+“Good evening, Inspector,” Miss Peake replied. “I was just asking Sir
+Rowland – has there been a robbery, or what?”
+The Inspector regarded her searchingly, allowed a moment or two to
+elapse, and then spoke. “We received a rather peculiar telephone call which
+brought us out here,” he told her. “And we think that perhaps you might be
+able to clear up the matter for us.” Spider's Web CHAPTER TWELVE
+THE INSPECTOR'S announcement was greeted by Miss Peake with a
+jolly laugh. “I say, this is mysterious. I am enjoying myself,” she exclaimed
+delightedly.
+The Inspector frowned. “It concerns Mr. Costello,” he explained. “Mr.
+Oliver Costello of twenty-seven Morgan Mansions, London SW3. I believe
+that's in the Chelsea area.”
+“Never heard of him,” was Miss Peake's robustly expressed response to
+this.
+“He was here this evening, visiting Mrs. Hailsham-Brown,” the Inspector
+reminded her, “and I believe you showed him out through the garden.”
+Miss Peake slapped her thigh. “Oh, that man,” she recalled. “Mrs.
+Hailsham-Brown did mention his name.” She looked at the Inspector with a
+little more interest. “Yes, what do you want to know?” she asked.
+“I should like to know,” the Inspector told her, speaking slowly and
+deliberately, “exactly what happened, and when you last saw him.”
+Miss Peake thought for a moment before replying. Then, “Let me see,”
+she said. “We went out through the French windows, and I told him there was
+a short cut if he wanted the bus, and he said no, he'd come in his car, and he'd
+left it round by the stables.”
+She beamed at the Inspector as though she expected to be praised for her
+succinct recollection of what had occurred, but he merely looked thoughtful
+as he commented, “Isn't that rather an odd place to leave a car?”
+“That's just what I thought,” Miss Peake agreed, slapping the Inspector's
+arm as she spoke. He looked surprised at this, but she continued, “You'd
+think he'd drive right up to the front door, wouldn't you? But people are so
+odd. You never know what they're going to do.” She gave a hearty guffaw.
+“And then what happened?” the Inspector asked.
+Miss Peake shrugged her shoulders. “Well, he went off to his car, and I
+suppose he drove away,” she replied.
+“You didn't see him do so?”
+“No – I was putting my tools away,” was the gardener's reply.
+“And that's the last you saw of him,” the Inspector asked with emphasis.
+“Yes, why?”
+“Because his car is still here,” the Inspector told her. Speaking slowly and emphatically, he continued, “A phone call was put
+through to the police station at seven forty-nine, saying that a man had been
+murdered at Copplestone Court.”
+Miss Peake looked appalled at this. “Murdered?” she exclaimed. “Here?
+Ridiculous!”
+“That's what everybody seems to think,” the Inspector observed drily,
+with a significant look at Sir Rowland.
+“Of course,” Miss Peake went on, “I know there are all these maniacs
+about, attacking women – but you say a man was murdered – ”
+The Inspector cut her short. “You didn't hear another car this evening?”
+he asked brusquely.
+“Only Mr. Hailsham-Brown's,” she replied.
+“Mr. Hailsham-Brown?” the Inspector queried with a rise of his
+eyebrows. “I thought he wasn't expected home till late.”
+His glance swung round to Clarissa, who hastened to explain. “My
+husband did come home, but he had to go out again almost immediately.”
+The Inspector assumed a deliberately patient expression. “Oh, is that so?”
+he commented in a tone of studied politeness. “Exactly when did he come
+home?”
+“Let me see...” Clarissa began to stammer. “It must have been about...”
+“It was about a quarter of an hour before I went off duty,” Miss Peake
+interjected. “I work a lot of overtime, Inspector. I never stick to regulation
+hours,” she explained. “Be keen on your job, that's what I say,” she
+continued, thumping the table as she spoke. “Yes, it must have been about a
+quarter past seven when Mr. Hailsham-Brown got in.”
+“That would have been shortly after Mr. Costello left,” the Inspector
+observed. He moved to the centre of the room, and his manner changed
+almost imperceptibly as he continued, “He and Mr. Hailsham-Brown
+probably passed each other.”
+“You mean,” Miss Peake said thoughtfully, “that he may have come back
+again to see Mr. Hailsham-Brown.”
+“Oliver Costello definitely didn't come back to the house,” Clarissa cut in
+sharply.
+“But you can't be sure of that, Mrs. Hailsham-Brown,” the gardener
+contradicted her. “He might have got in by that window without your
+knowing anything about it.” She paused, and then exclaimed, “Golly! You
+don't think he murdered Mr. Hailsham-Brown, do you? I say, I am sorry.” “Of course he didn't murder Henry,” Clarissa snapped irritably.
+“Where did your husband go when he left here?” the Inspector asked her.
+“I've no idea,” Clarissa replied shortly.
+“Doesn't he usually tell you where he's going?” the Inspector persisted.
+“I never ask questions,” Clarissa told him. “I think it must be so boring
+for a man if his wife is always asking questions.”
+Miss Peake gave a sudden squeal. “But how stupid of me,” she shouted.
+“Of course, if that man's car is still here, then he must be the one who's been
+murdered.” She roared with laughter.
+Sir Rowland rose to his feet. “We've no reason to believe anyone has
+been murdered, Miss Peake,” he admonished her with dignity. “In fact, the
+Inspector believes it was all some silly hoax.”
+Miss Peake was clearly not of the same opinion. “But the car,” she
+insisted. “I do think that car still being here is very suspicious.” She got up
+and approached the Inspector. “Have you looked about for the body,
+Inspector?” she asked him eagerly.
+“The Inspector has already searched the house,” Sir Rowland answered
+before the police officer had a chance to speak. He was rewarded by a sharp
+glance from the Inspector, whom Miss Peake was now tapping on the
+shoulder as she continued to air her views.
+“I'm sure those Elgins have something to do with it – the butler and that
+wife of his who calls herself a cook,” the gardener assured the Inspector
+confidently. “I've had my suspicions of them for quite some time. I saw a
+light in their bedroom window as I came along here just now. And that in
+itself is suspicious. It's their night out, and they usually don't return until well
+after eleven.” She gripped the Inspector's arm. “Have you searched their
+quarters?” she asked him urgently.
+The Inspector opened his mouth to speak, but she interrupted him with
+another tap on the shoulder. “Now listen,” she began. “Suppose this Mr.
+Costello recognized Elgin as a man with a criminal record. Costello might
+have decided to come back and warn Mrs. Hailsham-Brown about the man,
+and Elgin assaulted him.”
+Looking immensely pleased with herself, she flashed a glance around the
+room, and continued. “Then, of course, Elgin would have to hide the body
+somewhere quickly, so that he could dispose of it later in the night. Now,
+where would he hide it, I wonder?” she asked rhetorically, warming to her
+thesis. With a gesture towards the French windows, she began, “Behind a curtain, or – ”
+She was cut short by Clarissa, who interrupted angrily. “Oh, really, Miss
+Peake,” Clarissa exclaimed, “there isn't anybody hidden behind any of the
+curtains. And I'm sure Elgin would never murder anybody. It's quite
+ridiculous.”
+Miss Peake turned. “You're so trusting, Mrs. Hailsham-Brown,” she
+admonished her employer. “When you get to my age, you'll realize how very
+often people are simply not quite what they seem.” She laughed heartily as
+she turned back to the Inspector.
+When he opened his mouth to speak, she gave him yet another tap on the
+shoulder. “Now then,” she continued, “where would a man like Elgin hide the
+body? There's that cupboard place between here and the library. You've
+looked there, I suppose?”
+Sir Rowland intervened hastily. “Miss Peake, the Inspector has looked
+both here and in the library,” he insisted.
+The Inspector, however, after a meaningful look at Sir Rowland, turned to
+the gardener. “What exactly do you mean by 'that cupboard place,' Miss
+Peake?” he enquired.
+The others in the room all looked more than somewhat tense as Miss
+Peake replied, “Oh, it's a wonderful place when you're playing hide-and-seek.
+You'd really never dream it was there. Let me show it to you.”
+She walked over to the panel, followed by the Inspector. Jeremy got to his
+feet at the same moment that Clarissa exclaimed forcefully, “No.”
+The Inspector and Miss Peake both turned to look at her. “There's nothing
+there now,” Clarissa informed them. “I know because I went that way,
+through to the library, just now.”
+Her voice trailed off. Miss Peake, sounding disappointed, murmured,
+“Oh, well, in that case, then...” and turned away from the panel. The
+Inspector, however, called her back. “Just show me all the same, Miss
+Peake,” he ordered. “I'd like to see.”
+Miss Peake went to the bookshelves. “It was a door originally,” she
+explained. “It matched the one over there.”
+She actuated the lever, explaining as she did so, “You pull this catch
+back, and the door comes open. See?”
+The panel opened, and the body of Oliver Costello slumped down and fell
+forward. Miss Peake screamed.
+“So,” the Inspector observed, looking grimly at Clarissa, “You were mistaken, Mrs. Hailsham-Brown. It appears that there was a murder here
+tonight.”
+Miss Peake's scream rose to a crescendo. Spider's Web
